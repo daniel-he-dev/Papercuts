@@ -6,8 +6,6 @@
     <img src="Docs/readMeImage/logo.png" alt="Logo" width="auto" height="80">
   </a>
 
-  <h3 align="center">Papercuts Bookstore</h3>
-
   <p align="center">
     OUR MISSION: An application to connect your community through reading and sharing books. 
     <br />
@@ -21,6 +19,8 @@
     <a href="https://github.com/hratx-blue-ocean/Papercuts/issues">Request Feature</a>
   </p>
 </p>
+
+Check out a deployed version here! [here](https://ancient-anchorage-05347.herokuapp.com/)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -48,8 +48,6 @@
 ## About The Project
 
 Papercuts is a full-stack web application for buying, browsing, and commenting on the latest books. The user can register an account and maintain their own library of books, as well as make friends, leave recommendations, and start/join book clubs!
-
-[Deployed Version](https://ancient-anchorage-05347.herokuapp.com/)
 
 ![Papercuts Home Page](Docs/readMeImage/home.png)
 
