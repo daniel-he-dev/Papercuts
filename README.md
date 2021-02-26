@@ -20,7 +20,7 @@
   </p>
 </p>
 
-Check out a deployed version here! [here](https://ancient-anchorage-05347.herokuapp.com/)
+Check out a deployed version [here](https://ancient-anchorage-05347.herokuapp.com/)!
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
