@@ -43,7 +43,6 @@
     <li>
       <a href="#getting-started">Getting Started</a>
     </li>
-    <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
@@ -57,6 +56,8 @@
 ## About The Project
 
 Papercuts is a full-stack web application for buying, browsing, and commenting on the latest books. The user can register an account and maintain their own library of books, as well as make friends, leave recommendations, and start/join book clubs!
+
+[Deployed Version](https://ancient-anchorage-05347.herokuapp.com/)
 
 ![Papercuts Home Page](Docs/readMeImage/home.png)
 
@@ -119,7 +120,7 @@ This section should list any major frameworks that you built your project using.
   </tr>
   <tr>
     <td>Databases</td>
-    <td><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/> </td>
+    <td><img alt="Heroku" src="https://img.shields.io/badge/heroku%20-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/></td>
   </tr>
   <tr>
     <td>Testing</td>
